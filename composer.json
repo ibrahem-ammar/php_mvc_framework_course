@@ -2,7 +2,7 @@
   "name": "php-mvc-course/core",
   "autoload": {
     "psr-4": {
-      "MvcFrameworkCourse\\core": "."
+      "MvcFrameworkCourse\\core\\": "."
     }
   },
   "require": {}
