@@ -1,9 +1,9 @@
 <?php 
 
-namespace App\core\middlewares;
+namespace MvcFrameworkCourse\core\middlewares;
 
-use App\core\Application;
-use App\core\exception\ForbiddenException;
+use MvcFrameworkCourse\core\Application;
+use MvcFrameworkCourse\core\exception\ForbiddenException;
 
 class AuthMiddleWare extends BaseMiddleWare
 {

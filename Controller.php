@@ -1,13 +1,13 @@
 <?php 
 
 
-namespace App\core;
+namespace MvcFrameworkCourse\core;
 
-use App\core\middlewares\BaseMiddleWare;
+use MvcFrameworkCourse\core\middlewares\BaseMiddleWare;
 
 /**
  * 
- * @package App\core
+ * @package MvcFrameworkCourse\core
  */
 
 class Controller

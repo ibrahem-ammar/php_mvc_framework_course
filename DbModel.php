@@ -1,12 +1,12 @@
 <?php 
 
-namespace App\core;
+namespace MvcFrameworkCourse\core;
 
 use PDO;
 
 /**
  * 
- * @package App\core
+ * @package MvcFrameworkCourse\core
  */
 
 abstract class DbModel extends Model

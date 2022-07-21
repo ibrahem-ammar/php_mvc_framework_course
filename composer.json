@@ -1,15 +1,9 @@
 {
-    "name": "php-mvc-course/core",
-    "autoload": {
-        "psr-4": {
-            "PhpMvcCourse\\Core\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "ibrahem-ammar",
-            "email": "ibrahem.ammareg@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "php-mvc-course/core",
+  "autoload": {
+    "psr-4": {
+      "MvcFrameworkCourse\\core": "."
+    }
+  },
+  "require": {}
 }

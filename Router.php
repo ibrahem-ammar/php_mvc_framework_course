@@ -1,12 +1,12 @@
 <?php 
 
-namespace App\core;
+namespace MvcFrameworkCourse\core;
 
-use App\core\exception\NotFoundException;
+use MvcFrameworkCourse\core\exception\NotFoundException;
 
 /**
  * 
- * @package App\core
+ * @package MvcFrameworkCourse\core
  */
 class Router
 {

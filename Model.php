@@ -1,10 +1,10 @@
 <?php 
 
-namespace App\core;
+namespace MvcFrameworkCourse\core;
 
 /**
  * 
- * @package App\core
+ * @package MvcFrameworkCourse\core
  */
 
 abstract class Model

@@ -1,12 +1,12 @@
 <?php 
 
-namespace App\core\form;
+namespace MvcFrameworkCourse\core\form;
 
-use App\core\Model;
+use MvcFrameworkCourse\core\Model;
 
 /**
  * 
- * @package App\core\form
+ * @package MvcFrameworkCourse\core\form
  */
 
 class InputField extends BaseField
